@@ -10,6 +10,7 @@ __pycache__/
 venv/
 
 # Local scratch
-*.zip
 output_baseline/
 output_agents/
+
+*.zip
